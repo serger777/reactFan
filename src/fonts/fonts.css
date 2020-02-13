@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "exothin";
+  src: url("./exo2.0-thin.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TrebuchetMS";
+  src: url("./TrebuchetMS.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+
+}

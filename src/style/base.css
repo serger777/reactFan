@@ -1,0 +1,18 @@
+@import "../fonts/fonts.css";
+
+:root {
+  --blue: #1698d9;
+  --red: #d91667;
+  --grey: #b3b3b3;
+}
+
+html {
+  font-family: exo;
+  height: 100%;
+  color: black;
+}
+
+body {
+  background-image: url(../image/pattern.jpg);
+  background-repeat: repeat;
+}

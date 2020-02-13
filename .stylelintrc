@@ -1,0 +1,14 @@
+{
+  "extends": "stylelint-config-airbnb",
+  "plugins": [
+    "stylelint-order"
+  ],
+  "defaultSeverity": "error",
+  "rules": {
+    "indentation": 2,
+    "block-no-empty": true,
+    "color-named": "always-where-possible",
+    "declaration-block-semicolon-space-before": "never",
+    "declaration-empty-line-before": "never"
+  }
+}
