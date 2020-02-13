@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactFan/static/css/main.8417ef44.chunk.css",
+    "main.js": "/reactFan/static/js/main.8136ac5d.chunk.js",
+    "main.js.map": "/reactFan/static/js/main.8136ac5d.chunk.js.map",
+    "runtime-main.js": "/reactFan/static/js/runtime-main.bddcc678.js",
+    "runtime-main.js.map": "/reactFan/static/js/runtime-main.bddcc678.js.map",
+    "static/js/2.a631bfed.chunk.js": "/reactFan/static/js/2.a631bfed.chunk.js",
+    "static/js/2.a631bfed.chunk.js.map": "/reactFan/static/js/2.a631bfed.chunk.js.map",
+    "index.html": "/reactFan/index.html",
+    "precache-manifest.8d22b47486f3ec9504b74e13cf2f39c3.js": "/reactFan/precache-manifest.8d22b47486f3ec9504b74e13cf2f39c3.js",
+    "service-worker.js": "/reactFan/service-worker.js",
+    "static/css/main.8417ef44.chunk.css.map": "/reactFan/static/css/main.8417ef44.chunk.css.map",
+    "static/js/2.a631bfed.chunk.js.LICENSE.txt": "/reactFan/static/js/2.a631bfed.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/reactFan/static/media/pattern.fb86e249.jpg",
+    "static/media/CatsItem.module.css": "/reactFan/static/media/cat.6f47a89b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bddcc678.js",
+    "static/js/2.a631bfed.chunk.js",
+    "static/css/main.8417ef44.chunk.css",
+    "static/js/main.8136ac5d.chunk.js"
+  ]
+}
